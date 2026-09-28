@@ -1,13 +1,7 @@
 <!-- getcake-guides:start -->
 # GETCAKE — Nodes & Testnet Guides
 
-I document node setups, troubleshooting and maintenance notes.
-
-| Guide | What you'll find |
-| --- | --- |
-| [Asentum validator](https://github.com/getcakedieyoungx/asentum-validator-guide) | Setup, sync and bonding troubleshooting, and a health-check script |
-| [Orbinum validator](https://github.com/getcakedieyoungx/orbinum-validator-guide) | Deployment, session keys and validator application checks |
-| [Logos node](https://github.com/getcakedieyoungx/logos-node-guide) | Installation, service status and node maintenance |
+I document node setups, troubleshooting and maintenance notes. And doing some self projects for the love of the game.
 
 **[Follow GETCAKE on Telegram](https://t.me/+gLF_dgcUDtQ4MWI0)** for guide updates and setup fixes.
 For setup questions, use the discussion group linked from the channel.
