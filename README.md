@@ -17,7 +17,6 @@
 
 | Project | What it does |
 | :--- | :--- |
-| [rea](https://github.com/getcakedieyoungx/rea) | Agent tools for reverse engineering, from app behaviour to native binaries. |
 | [pixel-wind](https://github.com/getcakedieyoungx/pixel-wind) | Turns pixel-art sprites into seamless wind animations in the browser. |
 | [advice-debugger](https://github.com/getcakedieyoungx/advice-debugger) | A Claude Code skill that tracks advice, checks outcomes and revisits assumptions. |
 
